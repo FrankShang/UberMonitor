@@ -1,0 +1,13 @@
+/Users/frankshang/Desktop/uber3/week3/fleet-location-updater/src/main/java/demo/model/ServiceLocation.java
+/Users/frankshang/Desktop/uber3/week3/fleet-location-updater/src/main/java/demo/FleetLocationUpdaterSink.java
+/Users/frankshang/Desktop/uber3/week3/fleet-location-updater/src/main/java/demo/service/ServiceLocationService.java
+/Users/frankshang/Desktop/uber3/week3/fleet-location-updater/src/main/java/demo/model/VehicleStatus.java
+/Users/frankshang/Desktop/uber3/week3/fleet-location-updater/src/main/java/demo/model/Point.java
+/Users/frankshang/Desktop/uber3/week3/fleet-location-updater/src/main/java/demo/web/WebSocketApi.java
+/Users/frankshang/Desktop/uber3/week3/fleet-location-updater/src/main/java/demo/WebSocketConfig.java
+/Users/frankshang/Desktop/uber3/week3/fleet-location-updater/src/main/java/demo/FleetLocationUpdaterApplication.java
+/Users/frankshang/Desktop/uber3/week3/fleet-location-updater/src/main/java/demo/web/package-info.java
+/Users/frankshang/Desktop/uber3/week3/fleet-location-updater/src/main/java/demo/service/impl/DefaultServiceLocationService.java
+/Users/frankshang/Desktop/uber3/week3/fleet-location-updater/src/main/java/demo/model/FaultCode.java
+/Users/frankshang/Desktop/uber3/week3/fleet-location-updater/src/main/java/demo/model/package-info.java
+/Users/frankshang/Desktop/uber3/week3/fleet-location-updater/src/main/java/demo/model/CurrentPosition.java
